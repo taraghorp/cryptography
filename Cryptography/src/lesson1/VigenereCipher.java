@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 
 public class VigenereCipher { 
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {//
 		
 		VigenereCipher cipher = new VigenereCipher();
 		String encrypted = cipher.encrypt("seeyouatnoon", "spy");
