@@ -7,7 +7,7 @@ package lesson1;
 import java.io.StringWriter;
 import java.util.stream.IntStream;
 
-public class VigenereCipher {
+public class VigenereCipher { //
 
 	public static void main(String[] args) {
 		
